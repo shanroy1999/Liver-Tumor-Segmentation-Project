@@ -1,7 +1,4 @@
 # Liver-Tumor-Segmentation-Project
-
-**Comprehensive Project Explanation: Liver Tumor Segmentation Using Deep Learning (Code-Based Analysis)**
-
 ---
 
 ### **Introduction**
